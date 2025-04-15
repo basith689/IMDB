@@ -1,0 +1,251 @@
+Title,Year,Rating,Content Rating
+ The Shawshank Redemption,1994,9.3,15
+ The Godfather,1972,9.2,15
+ The Dark Knight,2008,9,12A
+ The Godfather Part II,1974,9,X
+ 12 Angry Men,1957,9,U
+ The Lord of the Rings: The Return of the King,2003,9,12A
+ Schindler's List,1993,9,15
+ Pulp Fiction,1994,8.9,18
+ The Lord of the Rings: The Fellowship of the Ring,2001,8.9,PG
+" The Good, the Bad and the Ugly",1966,8.8,18
+ Forrest Gump,1994,8.8,12
+ The Lord of the Rings: The Two Towers,2002,8.8,12A
+ Fight Club,1999,8.8,15
+ Inception,2010,8.8,12A
+ Star Wars: Episode V - The Empire Strikes Back,1980,8.7,U
+ The Matrix,1999,8.7,15
+ GoodFellas,1990,8.7,18
+ One Flew Over the Cuckoo's Nest,1975,8.7,X
+ Interstellar,2014,8.7,12A
+ Seven,1995,8.6,18
+ It's a Wonderful Life,1946,8.6,U
+ Seven Samurai,1954,8.6,PG
+ The Silence of the Lambs,1991,8.6,18
+ Saving Private Ryan,1998,8.6,15
+ City of God,2002,8.6,18
+ The Green Mile,1999,8.6,18
+ Life Is Beautiful,1997,8.6,PG
+ Terminator 2: Judgment Day,1991,8.6,15
+ Star Wars: Episode IV - A New Hope,1977,8.6,U
+ Back to the Future,1985,8.5,PG
+ Spirited Away,2001,8.6,PG
+ The Pianist,2002,8.5,15
+ Gladiator,2000,8.5,15
+ Parasite,2019,8.5,15
+ Psycho,1960,8.5,15
+ The Lion King,1994,8.5,U
+ Grave of the Fireflies,1988,8.5,12A
+ The Departed,2006,8.5,18
+ Whiplash,2014,8.5,15
+ Harakiri,1962,8.6,X
+ American History X,1998,8.5,18
+ The Prestige,2006,8.5,12A
+ Leon,1994,8.5,18
+ Spider-Man: Across the Spider-Verse,2023,8.5,PG
+ Casablanca,1942,8.5,U
+ The Usual Suspects,1995,8.5,18
+ Untouchable,2011,8.5,15
+ Cinema Paradiso,1988,8.5,PG
+ Modern Times,1936,8.5,U
+ Alien,1979,8.5,X
+ Rear Window,1954,8.5,PG
+ Once Upon a Time in the West,1968,8.5,12
+ Django Unchained,2012,8.5,18
+ City Lights,1931,8.5,U
+ Apocalypse Now,1979,8.4,X
+ Dune: Part Two,2024,8.5,12A
+ Memento,2000,8.4,15
+ WALL·E,2008,8.4,U
+ Raiders of the Lost Ark,1981,8.4,PG
+ The Lives of Others,2006,8.4,15
+ Avengers: Infinity War,2018,8.4,12A
+ Sunset Blvd,1950,8.4,PG
+ Spider-Man: Into the Spider-Verse,2018,8.4,PG
+ Paths of Glory,1957,8.4,PG
+ Witness for the Prosecution,1957,8.4,U
+ The Shining,1980,8.4,X
+ The Great Dictator,1940,8.4,PG
+ 12th Fail,2023,8.8,12A
+ Aliens,1986,8.4,18
+ Inglourious Basterds,2009,8.4,18
+ The Dark Knight Rises,2012,8.4,12A
+ Coco,2017,8.4,PG
+ Amadeus,1984,8.4,PG
+ Toy Story,1995,8.3,PG
+ Avengers: Endgame,2019,8.4,12A
+ Good Will Hunting,1997,8.3,15
+ Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,PG
+ Oldboy,2003,8.3,18
+ American Beauty,1999,8.3,18
+ Das Boot,1981,8.4,AA
+ Braveheart,1995,8.3,15
+ The Chaos Class Failed the Class,1975,8.8,Not Rated
+ Princess Mononoke,1997,8.3,PG
+ Your Name,2016,8.4,12A
+ High and Low,1963,8.4,12
+ 3 Idiots,2009,8.4,12A
+ Joker,2019,8.3,15
+ Once Upon a Time in America,1984,8.3,18
+ Capernaum,2018,8.4,15
+ Singin' in the Rain,1952,8.3,U
+ Come and See,1985,8.3,15
+ Requiem for a Dream,2000,8.3,18
+ Toy Story 3,2010,8.3,PG
+ Star Wars: Episode VI - Return of the Jedi,1983,8.3,PG
+ The Hunt,2012,8.3,15
+ Ikiru,1952,8.3,PG
+ Eternal Sunshine of the Spotless Mind,2004,8.3,15
+ 2001: A Space Odyssey,1968,8.3,U
+ Reservoir Dogs,1992,8.3,18
+ The Apartment,1960,8.3,PG
+ Incendies,2010,8.3,15
+ Lawrence of Arabia,1962,8.3,PG
+ Scarface,1983,8.3,18
+ Double Indemnity,1944,8.3,A
+ North by Northwest,1959,8.3,PG
+ Heat,1995,8.3,15
+ Citizen Kane,1941,8.3,A
+ Up,2009,8.3,U
+ M,1931,8.3,PG
+ Full Metal Jacket,1987,8.2,18
+ Vertigo,1958,8.3,PG
+ Amélie,2001,8.3,15
+ A Separation,2011,8.3,PG
+ To Kill a Mockingbird,1962,8.3,PG
+ A Clockwork Orange,1971,8.2,X
+ Die Hard,1988,8.2,18
+ Like Stars on Earth,2007,8.3,PG
+ The Sting,1973,8.3,PG
+ Indiana Jones and the Last Crusade,1989,8.2,PG
+ Oppenheimer,2023,8.3,15
+ Metropolis,1927,8.3,PG
+ Snatch,2000,8.2,18
+1917,2019,8.2,15
+ L.A.Confidential,1997,8.2,18
+ Bicycle Thieves,1948,8.2,U
+ Downfall,2004,8.2,15
+ Dangal,2016,8.3,PG
+ Taxi Driver,1976,8.2,18
+ Hamilton,2020,8.3,12
+ The Wolf of Wall Street,2013,8.2,18
+ Batman Begins,2005,8.2,12A
+ Green Book,2018,8.2,12A
+ For a Few Dollars More,1965,8.2,15
+ Judgment at Nuremberg,1961,8.3,PG
+ The Truman Show,1998,8.2,PG
+ Some Like It Hot,1959,8.2,A
+ Shutter Island,2010,8.2,15
+ The Kid,1921,8.2,U
+ The Father,2020,8.2,12A
+ All About Eve,1950,8.2,PG
+ Jurassic Park,1993,8.2,PG
+ There Will Be Blood,2007,8.2,12A
+ Casino,1995,8.2,18
+ The Sixth Sense,1999,8.2,15
+ Ran,1985,8.2,15
+ Top Gun: Maverick,2022,8.2,12A
+ No Country for Old Men,2007,8.2,15
+ The Thing,1982,8.2,X
+ Pan's Labyrinth,2006,8.2,15
+ Unforgiven,1992,8.2,15
+ A Beautiful Mind,2001,8.2,12
+ Kill Bill: Vol 1,2003,8.2,18
+ The Treasure of the Sierra Madre,1948,8.2,PG
+ Prisoners,2013,8.2,15
+ Yojimbo,1961,8.2,PG
+ Finding Nemo,2003,8.2,U
+ The Great Escape,1963,8.2,PG
+ Howl's Moving Castle,2004,8.2,U
+ Monty Python and the Holy Grail,1975,8.2,12A
+ The Elephant Man,1980,8.2,PG
+ Dial M for Murder,1954,8.2,PG
+ Gone with the Wind,1939,8.2,PG
+ Klaus,2019,8.2,PG
+ Rashomon,1950,8.2,X
+ Chinatown,1974,8.1,X
+ The Secret in Their Eyes,2009,8.2,18
+" Lock, Stock and Two Smoking Barrels",1998,8.1,18
+ V for Vendetta,2005,8.1,15
+ Inside Out,2015,8.1,U
+" Three Billboards Outside Ebbing, Missouri",2017,8.1,15
+ The Bridge on the River Kwai,1957,8.1,PG
+ Trainspotting,1996,8.1,18
+ The Wild Robot,2024,8.2,U
+ Catch Me If You Can,2002,8.1,12A
+ Raging Bull,1980,8.1,X
+ Fargo,1996,8.1,18
+ Warrior,2011,8.1,12A
+ Harry Potter and the Deathly Hallows: Part 2,2011,8.1,12A
+ Gran Torino,2008,8.1,15
+ Million Dollar Baby,2004,8.1,12A
+ My Neighbour Totoro,1988,8.1,U
+ Mad Max: Fury Road,2015,8.1,15
+ Ben-Hur,1959,8.1,PG
+ Spider-Man: No Way Home,2021,8.2,12A
+ Barry Lyndon,1975,8.1,PG
+ Children of Heaven,1997,8.2,PG
+ Dead Poets Society,1989,8.1,PG
+ 12 Years a Slave,2013,8.1,15
+ Before Sunrise,1995,8.1,15
+ Blade Runner,1982,8.1,AA
+ The Grand Budapest Hotel,2014,8.1,15
+ Hacksaw Ridge,2016,8.1,15
+ Gone Girl,2014,8.1,18
+ Memories of Murder,2003,8.1,15
+ Ratatouille,2007,8.1,PG
+ In the Name of the Father,1993,8.1,15
+" Monsters, Inc",2001,8.1,U
+ The Gold Rush,1925,8.1,U
+ How to Train Your Dragon,2010,8.1,PG
+ Wild Tales,2014,8.1,15
+ I'm Still Here,2024,8.3,15
+ Sherlock Jr,1924,8.2,U
+ Jaws,1975,8.1,PG
+ Mary and Max,2009,8.1,12A
+ The Deer Hunter,1978,8.1,X
+ The General,1926,8.1,U
+ Le Mans '66,2019,8.1,12A
+ The Wages of Fear,1953,8.1,PG
+ On the Waterfront,1954,8.1,PG
+ Mr. Smith Goes to Washington,1939,8.1,U
+ Wild Strawberries,1957,8.1,PG
+ Logan,2017,8.1,15
+ Rocky,1976,8.1,PG
+ The Third Man,1949,8.1,PG
+ Tokyo Story,1953,8.1,U
+ Maharaja,2024,8.4,15
+ The Big Lebowski,1998,8.1,18
+ Spotlight,2015,8.1,15
+ The Terminator,1984,8.1,18
+ The Seventh Seal,1957,8.1,PG
+ Room,2015,8.1,15
+ Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,12A
+ Jai Bhim,2021,8.7,Not Rated
+ La haine,1995,8.1,15
+ Hotel Rwanda,2004,8.1,12A
+ Platoon,1986,8.1,15
+ The Best Years of Our Lives,1946,8.1,U
+ Before Sunset,2004,8.1,15
+ The Exorcist,1973,8.1,X
+ The Passion of Joan of Arc,1928,8.1,PG
+ The Wizard of Oz,1939,8.1,A
+ The Sound of Music,1965,8.1,U
+ The Incredibles,2004,8,PG
+ Rush,2013,8.1,15
+ Hachi: A Dog's Tale,2009,8.1,U
+ Stand by Me,1986,8.1,15
+ My Father and My Son,2005,8.2,PG
+ Network,1976,8.1,AA
+ The Handmaiden,2016,8.1,18
+ The Iron Giant,1999,8.1,PG
+ To Be or Not to Be,1942,8.1,U
+ The Battle of Algiers,1966,8.1,X
+ The Grapes of Wrath,1940,8.1,PG
+ A Silent Voice,2016,8.1,PG
+ Into the Wild,2007,8,15
+ Groundhog Day,1993,8,PG
+ The Help,2011,8.1,12A
+ Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc,2021,8.5,Not Rated
+ Amores perros,2000,8,18
+ Rebecca,1940,8.1,PG
